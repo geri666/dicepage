@@ -12,7 +12,11 @@ img {
     padding: 10px;
 }
 
-/* CSS */
+.nextToEachOther {
+    width: 200px;
+    display: inline-block;
+}
+
 .button-17 {
     align-items: center;
     appearance: none;
